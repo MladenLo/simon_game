@@ -1,0 +1,11 @@
+{
+  "name": "chat-example",
+  "version": "0.0.0",
+  "description": "Simple NodeJS express server for serving  front-end apps",
+  "main": "server.js",
+  "repository": "",
+  "author": "MDev",
+  "dependencies": {
+    "express": "4.16.3"
+  }
+}
